@@ -1,6 +1,9 @@
 此源代码为视频 WXOPEN Club 出品的免费视频教程配套源代码。
+
 视频版权为 WXOPEN Club (http://wxopen.club/) 所有。
+
 [优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
+
 您可以随意下载、分享视频内容，不过请勿用于商业行为，我们保留追究所有法律责任的权利！
 
 ## 微信小程序开发视频课程大纲
