@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usermotto" hidden="{{userid==123 ? true: false}}">
+    <text class="user-motto" id="user-{{userid}}">{{motto}}</text>
+  </view>
+  <view wx:if="{{show}}">
+  TRUE
+  </view>
+  <view wx:else>
+  ELSE
+  </view>
+</view>

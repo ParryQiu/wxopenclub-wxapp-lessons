@@ -1,0 +1,30 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usermotto" hidden="{{userid==123 ? true: false}}">
+    <text class="user-motto" id="user-{{userid}}">{{motto}}</text>
+  </view>
+  <view wx:if="{{show}}">
+  TRUE
+  </view>
+  <view wx:else>
+  ELSE
+  </view>
+
+
+  <view wx:for="{{array}}" wx:for-item="foritem" wx:key="index">
+    <text id="messageIndex - {{index}}">{{index}} - {{foritem.message}}</text>
+  </view>
+
+
+  <template is="msgItem" data="{{...item}}"/>
+  <template is="msgItem" data="{{...itemb}}"/>
+
+
+<template name="msgItem">
+  <view>
+    <text> {{index}}: {{msg}} </text>
+    <text> 时间: {{time}} </text>
+  </view>
+</template>
+
+</view>
