@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+  <view id="textMessage" class="usermotto" >
+    <text data-userId="123456" data-user-name="parry" class="user-motto" bindtap="tapMessage" id="user-{{userid}}">{{motto}}</text>
+  </view>
+   
+
+   <view id="outter" bindtap="handleTap1">
+      outer view
+      <view id="middle" catchtap="handleTap2">
+        middle view
+        <view id="inner" bindtap="handleTap3">
+          inner view
+        </view>
+      </view>
+    </view>
+
+
+</view>
