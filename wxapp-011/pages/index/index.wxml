@@ -1,0 +1,13 @@
+
+<!--index.wxml-->
+<view class="container">
+  <view>
+    <button type="primary" bindtap="loadData">加载数据</button>
+
+    <view wx:for="{{newsdata}}">
+      <image sytle="width:300px;height:200px;" src="{{item.thumbnail_pic_s}}"></image>
+      [{{item.realtype}}]{{item.title}}
+    </view>
+
+  </view>
+</view>
