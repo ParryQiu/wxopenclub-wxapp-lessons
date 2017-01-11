@@ -1,0 +1,33 @@
+<!--logs.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="section__ctn">
+            <Image style="width:100px; height:100px;" src="https://o97mkvfjm.qnssl.com/logo.png"></Image>
+        </view>
+    </view>
+    <view class="page__bd">
+      <view class="section">
+        <input type="text" bindinput="bindEmailInput" placeholder="邮箱" auto-focus />
+      </view>
+      <view class="section">
+        <input type="password" bindinput="bindPasswordInput" placeholder="密码" />
+      </view>
+      <view class="section">
+        <view class="btn-area">
+           <button type="primary" ontap="login">登录</button>
+        </view>
+      </view>
+
+      <view class="section">
+      <view class="btn-area">
+        <button type="default" bindtap="gotoregister">新用户注册</button>
+      </view>
+    </view>
+    <view class="section">
+      <view class="btn-area">
+        <button type="default" bindtap="forgotpassword">忘记密码</button>
+      </view>
+    </view>
+
+    </view>
+</view>
