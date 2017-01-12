@@ -24,6 +24,12 @@
 - [014-第二章第四节-微信小程序项目实战之用户登录网络请求](http://wxopen.club/topic/5863d4beeb394f4d65dd834f)
 - [015-第二章第五节-015-第二章第五节-微信小程序项目实战之登录页面跳转](http://wxopen.club/topic/58764db429ab1862193b09dc)
 - [016-第二章第六节]（收集课程反馈，即将更新）
+
 ***
-WXOPEN Club 社区为国内最专业的微信小程序技术社区，致力于微信小程序的技术研究。
-[http://wxopen.club](http://wxopen.club)
+![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
+[优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
+或者关注 [讲师微博 @Parry](http://weibo.com/parryqiu) 获取第一时间更新提醒。
+社区视频更新合集贴：[http://wxopen.club/topic/582d4999745f85100cd13a65](http://wxopen.club/topic/582d4999745f85100cd13a65)
+此视频为 WXOPEN Club 出品的免费视频教程，欢迎大家踊跃留言给讲师需要讲解哪方面的课程，这样课程也更加干货多多，随时更新。
+视频版权为 WXOPEN Club (http://wxopen.club/) 所有。
+您可以随意下载、分享视频内容，不过请勿用于商业行为，我们保留追究所有法律责任的权利！
