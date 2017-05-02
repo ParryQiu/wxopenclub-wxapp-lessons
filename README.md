@@ -23,7 +23,9 @@
 - [013-第二章第三节-微信小程序项目实战之用户登录模块布局](http://wxopen.club/topic/584f9fc75ea243c53e882032)
 - [014-第二章第四节-微信小程序项目实战之用户登录网络请求](http://wxopen.club/topic/5863d4beeb394f4d65dd834f)
 - [015-第二章第五节-微信小程序项目实战之登录页面跳转](http://wxopen.club/topic/58764db429ab1862193b09dc)
-- [016-第二章第六节]（收集课程反馈，即将更新）
+- [016-第二章第六节-微信小程序项目实战之检测API的TLS以及IPv6兼容性](http://wxopen.club/topic/587b154429ab1862193b0a21)
+- [017-第二章第七节-微信小程序项目实战之地图的基本概念与组件使用示例](http://wxopen.club/topic/58ddc8ea5074daa8287b7b24)
+- [018-第二章第八节] （今晚提前在群中发布超清视频更新）
 
 ***
 ![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
@@ -39,3 +41,5 @@
 视频版权为 WXOPEN Club (http://wxopen.club/) 所有。
 
 您可以随意下载、分享视频内容，不过请勿用于商业行为，我们保留追究所有法律责任的权利！
+
+
