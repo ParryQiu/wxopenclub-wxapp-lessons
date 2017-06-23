@@ -2,9 +2,9 @@
 
 视频版权为 WXOPEN Club | 微信小程序专业社区 (http://wxopen.club/) 所有。
 
-[bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11190594/)
+[bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11131630/)
 
-[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvBsNjuRnNPfaF2L7G8VPFFB)
+[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
 
 [优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
 
@@ -33,9 +33,9 @@
 ***
 ![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
 
-[bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11190594/)
+[bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11131630/)
 
-[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvBsNjuRnNPfaF2L7G8VPFFB)
+[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
 
 [优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
 
