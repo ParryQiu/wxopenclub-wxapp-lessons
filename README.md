@@ -3,7 +3,9 @@
 视频版权为 WXOPEN Club | 微信小程序专业社区 (http://wxopen.club/) 所有。
 
 [bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11190594/)
+
 [Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvBsNjuRnNPfaF2L7G8VPFFB)
+
 [优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
 
 ## 微信小程序开发视频课程大纲
@@ -32,7 +34,9 @@
 ![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
 
 [bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11190594/)
+
 [Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvBsNjuRnNPfaF2L7G8VPFFB)
+
 [优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
 
 或者关注 [讲师微博 @Parry](http://weibo.com/parryqiu) 获取第一时间更新提醒。
