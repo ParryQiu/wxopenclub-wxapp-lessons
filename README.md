@@ -29,6 +29,7 @@
 - 017-第二章第七节-微信小程序项目实战之地图的基本概念与组件使用示例
 - 018-第二章第八节-小程序中的 Flex 布局
 - 019-微信小程序中的用户登录以及获取用户基本信息
+- 020 即将更新
 
 ***
 ![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
