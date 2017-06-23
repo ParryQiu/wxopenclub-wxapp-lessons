@@ -25,14 +25,14 @@
 - [013-第二章第三节-微信小程序项目实战之用户登录模块布局](http://wxopen.club/topic/584f9fc75ea243c53e882032)
 - [014-第二章第四节-微信小程序项目实战之用户登录网络请求](http://wxopen.club/topic/5863d4beeb394f4d65dd834f)
 - [015-第二章第五节-015-第二章第五节-微信小程序项目实战之登录页面跳转](http://wxopen.club/topic/58764db429ab1862193b09dc)
-- 016-第二章第六节-微信小程序项目实战之检测API的TLS以及IPv6兼容性
-- 017-第二章第七节-微信小程序项目实战之地图的基本概念与组件使用示例
-- 018-第二章第八节-小程序中的 Flex 布局
-- 019-微信小程序中的用户登录以及获取用户基本信息
+- [016-第二章第六节-微信小程序项目实战之检测API的TLS以及IPv6兼容性](http://www.bilibili.com/video/av11131630/)
+- [017-第二章第七节-微信小程序项目实战之地图的基本概念与组件使用示例](http://www.bilibili.com/video/av11131630/)
+- [018-第二章第八节-小程序中的 Flex 布局](http://www.bilibili.com/video/av11131630/)
+- [019-微信小程序中的用户登录以及获取用户基本信息](http://www.bilibili.com/video/av11131630/)
 - 020 即将更新
 
-***
-![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
+
+## 课程更新说明
 
 [bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11131630/)
 
@@ -44,8 +44,14 @@
 
 社区视频更新合集贴：[http://wxopen.club/topic/582d4999745f85100cd13a65](http://wxopen.club/topic/582d4999745f85100cd13a65)
 
+## 版权声明
+
 此视频为 WXOPEN Club 出品的免费视频教程，欢迎大家踊跃留言给讲师需要讲解哪方面的课程，这样课程也更加干货多多，随时更新。
 
 视频版权为 WXOPEN Club (http://wxopen.club/) 所有。
 
 您可以随意下载、分享视频内容，不过请勿用于商业行为，我们保留追究所有法律责任的权利！
+
+***
+
+![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
