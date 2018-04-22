@@ -34,7 +34,7 @@
 
 [优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
 
-[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0
+[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
 
 社区视频更新合集贴：[https://devopen.club/](https://devopen.club/)
 
