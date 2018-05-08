@@ -2,7 +2,7 @@
 
 视频版权为 WXOPEN Club | 微信小程序专业社区 (http://wxopen.club/) 所有。
 
-[优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
+[优酷播单地址](https://list.youku.com/albumlist/show/id_29397686)
 
 [Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
 
