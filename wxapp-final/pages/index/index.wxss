@@ -1,0 +1,35 @@
+.list {
+  margin: 10px;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 10px;
+  box-shadow:0px 2px 5px #efefef;
+}
+
+.list_preinfo {
+  color: #cecece;
+  font-size: 11px;
+}
+
+.list_title {
+  color: #545454;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  display: block;
+  font-size: 15px;
+}
+
+.list_tag {
+  display: inline;
+  padding: 0.1em 0.3em 0.1em 0.3em;
+  margin-right: 3px;
+  font-size: 11px;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25em;
+  color: #626262;
+  font-weight: normal;
+}

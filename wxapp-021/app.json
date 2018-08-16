@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/fav/fav",
+    "pages/usercenter/usercenter"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "TechFoco 技术博文头条",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#1AAD16",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "头条",
+        "iconPath": "images/news.png",
+        "selectedIconPath": "images/news_s.png"
+      },
+      {
+        "pagePath": "pages/fav/fav",
+        "text": "收藏",
+        "iconPath": "images/star.png",
+        "selectedIconPath": "images/star_s.png"
+      },
+      {
+        "pagePath": "pages/usercenter/usercenter",
+        "text": "个人中心",
+        "iconPath": "images/user.png",
+        "selectedIconPath": "images/user_s.png"
+      }
+    ]
+  }
+}

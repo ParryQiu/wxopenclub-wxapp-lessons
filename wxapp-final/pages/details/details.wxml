@@ -1,0 +1,5 @@
+<view class="doc-container">
+  <view class="doc-title">今日精选</view>
+  <text>{{article.Title}}</text>
+  <rich-text nodes="{{myrich}}"></rich-text>
+</view>

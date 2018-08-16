@@ -1,0 +1,30 @@
+<!-- pages/usercenter/usercenter.wxml -->
+<view>
+    <!-- 如果只是展示用户头像昵称，可以使用 <open-data /> 组件 -->
+    <view class="userinfo">
+        <view class="userinfo-avatar">
+            <open-data type="userAvatarUrl"></open-data>
+        </view>
+        <open-data type="userNickName"></open-data>
+    </view>
+    <view class="weui-cells__title">个人设置</view>
+    <view class="weui-cells">
+        <view class="weui-cell">
+            <view class="weui-cell__bd">
+                <text>Parry</text>
+            </view>
+            <view class="weui-cell__ft">说明文字</view>
+        </view>
+        <view class="weui-cell">
+            <view class="weui-cell__bd">
+                <text>Parry</text>
+            </view>
+            <view class="weui-cell__ft">说明文字</view>
+        </view>
+
+        <view class="weui-cell">
+            <view class="weui-cell__ft">{{openid}}</view>
+        </view>
+
+    </view>
+</view>
