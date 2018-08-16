@@ -1,46 +1,71 @@
-此源代码为视频 WXOPEN Club 出品的免费视频教程配套源代码。
+此源代码为视频 DevOpenClub 出品的免费视频教程配套源代码。
 
-视频版权为 WXOPEN Club | 微信小程序专业社区 (http://wxopen.club/) 所有。
+视频版权为 [DevOpenClub](https://devopen.club/) 所有。
 
-[bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11190594/)
-[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvBsNjuRnNPfaF2L7G8VPFFB)
-[优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
+[优酷播单地址](https://list.youku.com/albumlist/show/id_29397686)
+
+[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
 
 ## 微信小程序开发视频课程大纲
 
-- [001-第一章第一课-微信小程序基本概念](http://wxopen.club/topic/582e530d15e8801003c8c245)
-- [002-第一章第二课-tabbar 的设置与相关属性](http://wxopen.club/topic/582e997315e8801003c8c249)
-- [003-第一章第三节-注册程序及程序生命周期](http://wxopen.club/topic/58330bd4ff264374351a55f7)
-- [004-第一章第四节-页面注册及页面生命周期](http://wxopen.club/topic/5834048c629be4ba7af51fad)
-- [005-第一章第五节-模块化](http://www.wxopen.club/topic/58354c11629be4ba7af51fdc)
-- [006-第一章第六节-微信小程序中的数据绑定与条件渲染](http://www.wxopen.club/topic/58397c08bc94e5735968443a)
-- [007-第一章第七节-微信小程序中的列表渲染与模板](http://www.wxopen.club/topic/58399863bc94e5735968443c)
-- [008-第一章第八节-微信小程序中的事件](http://www.wxopen.club/topic/583cffc2bc94e57359684469)
-- [009-第一章第九节-微信小程序中的引用](http://www.wxopen.club/topic/583d000cbc94e5735968446a)
-- [010-第一章第十节-微信小程序中的样式](http://www.wxopen.club/topic/583d0063bc94e5735968446b)
-- [011-第二章第一节-微信小程序中的网络请求与列表绑定](http://wxopen.club/topic/584ace1e16f4420a0a7cd984)
-- [012-第二章第二节-微信小程序项目实战之项目介绍与初始化](http://wxopen.club/topic/584f9f745ea243c53e882031)
-- [013-第二章第三节-微信小程序项目实战之用户登录模块布局](http://wxopen.club/topic/584f9fc75ea243c53e882032)
-- [014-第二章第四节-微信小程序项目实战之用户登录网络请求](http://wxopen.club/topic/5863d4beeb394f4d65dd834f)
-- [015-第二章第五节-015-第二章第五节-微信小程序项目实战之登录页面跳转](http://wxopen.club/topic/58764db429ab1862193b09dc)
-- 016-第二章第六节-微信小程序项目实战之检测API的TLS以及IPv6兼容性
-- 017-第二章第七节-微信小程序项目实战之地图的基本概念与组件使用示例
-- 018-第二章第八节-小程序中的 Flex 布局
+- 001-微信小程序基本概念
+- 002-tabbar的设置与相关属性
+- 003-注册程序及程序生命周期
+- 004-页面注册及页面生命周期
+- 005-模块化
+- 006-微信小程序中的数据绑定与条件渲染
+- 007-微信小程序中的列表渲染与模板
+- 008-微信小程序中的事件
+- 009-微信小程序中的引用
+- 010-微信小程序中的样式
+- 011-微信小程序中的网络请求与列表绑定
+- 012-微信小程序项目实战之项目介绍与初始化
+- 013-微信小程序项目实战之用户登录模块布局
+- 014-微信小程序项目实战之用户登录网络请求
+- 015-微信小程序项目实战之登录页面跳转
+- 016-微信小程序项目实战之检测API的TLS以及IPv6兼容性
+- 017-微信小程序项目实战之地图的基本概念与组件使用示例
+- 018-小程序中的Flex布局
 - 019-微信小程序中的用户登录以及获取用户基本信息
+- 020-微信小程序实战开发前置知识点梳理
+- 021-个人中心页面布局开发（一）
+- 022-个人中心页面布局开发（二）
+- 023-个人中心页面布局开发（三）
+- 024-个人中心用户微信登录逻辑（一）
+- 025-个人中心用户微信登录逻辑（二）
+- 026-个人中心用户微信登录信息加载
+- 027-新闻列表页面的布局开发（一）
+- 028-新闻列表页面的布局开发（二）
+- 029-新闻列表页面的布局开发（三）
+- 030-列表页面请求数据源 API 以及小程序网络请求详解
+- 031-列表页面数据请求与绑定（一）
+- 032-列表页面数据请求与绑定（二）
+- 033-列表页面数据请求与绑定（三）
+- 034-新闻详情页面的布局开发（一）
+- 035-新闻详情页面的布局开发（二）
+- 036-新闻详情的数据绑定（一）
+- 037-新闻详情的数据绑定（二）
+- 038-新闻收藏功能的开发
+- 039-微信小程序的优化原则以及常见方案
+- 040-实战微信小程序的上传、审核与上架
 
-***
-![video_masker.png](https://ogo92oag1.qnssl.com/Ftm4X3RKF7H22_HVakhVJA65igfD)
 
-[bilibili (゜-゜)つロ 干杯播单](http://www.bilibili.com/video/av11190594/)
-[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvBsNjuRnNPfaF2L7G8VPFFB)
-[优酷播单地址](http://list.youku.com/albumlist/show?id=28664305&ascending=1&page=1)
+## 课程更新说明
 
-或者关注 [讲师微博 @Parry](http://weibo.com/parryqiu) 获取第一时间更新提醒。
+[优酷播单地址](https://list.youku.com/albumlist/show/id_29397686)
 
-社区视频更新合集贴：[http://wxopen.club/topic/582d4999745f85100cd13a65](http://wxopen.club/topic/582d4999745f85100cd13a65)
+[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
 
-此视频为 WXOPEN Club 出品的免费视频教程，欢迎大家踊跃留言给讲师需要讲解哪方面的课程，这样课程也更加干货多多，随时更新。
+社区视频更新合集贴：[https://devopen.club/](https://devopen.club/)
 
-视频版权为 WXOPEN Club (http://wxopen.club/) 所有。
+## 版权声明
+
+此视频为 DevOpenClub 出品的免费视频教程，欢迎大家踊跃留言给讲师需要讲解哪方面的课程，这样课程也更加干货多多，随时更新。
+
+视频版权为 [DevOpenClub](https://devopen.club/) 所有。
 
 您可以随意下载、分享视频内容，不过请勿用于商业行为，我们保留追究所有法律责任的权利！
+
+***
+
+![video_masker.png](https://oindk07nf.qnssl.com/ending.jpg)
