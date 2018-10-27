@@ -3,8 +3,7 @@
     "pages/index/index",
     "pages/fav/fav",
     "pages/usercenter/usercenter",
-    "pages/details/details",
-    "pages/wxdetails/wxdetails"
+    "pages/details/details"
   ],
   "window": {
     "backgroundColor": "#f5f5f5",

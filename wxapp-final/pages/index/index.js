@@ -63,14 +63,8 @@ Page({
   tapItem: function(event) {
     var that = this; 
     var article = event.currentTarget.dataset.para;
-    if (article.IsWeiXinArticle){
-      wx.navigateTo({
-        url: "/pages/wxdetails/wxdetails"
-      })
-    }else{
-      wx.navigateTo({
-        url: "/pages/details/details?id=" + article.ArticleId
-      })
-    }
+    wx.navigateTo({
+      url: "/pages/details/details?id=" + article.ArticleId
+    })
   }
 })

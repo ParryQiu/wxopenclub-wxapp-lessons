@@ -1,4 +1,7 @@
 {
   "navigationBarTitleText": "TechFoco",
-  "onReachBottomDistance" : "10px"
+  "onReachBottomDistance" : "10px",
+  "usingComponents": {
+    "datepicker": "miniprogram-datepicker"
+  }
 }

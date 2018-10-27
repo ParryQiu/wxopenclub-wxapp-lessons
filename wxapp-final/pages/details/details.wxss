@@ -1,1 +1,19 @@
 /* pages/details/details.js.wxss */
+
+.rich-text-div {
+  padding: 10px;
+}
+
+.aritcle-title{
+  color:cornflowerblue;
+}
+
+.aritcle-url{
+  font-size: 11px;
+  padding: 10px;
+}
+
+rich-text {
+  font-size: 12px;
+  line-height: 24px;
+}
