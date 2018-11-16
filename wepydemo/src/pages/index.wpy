@@ -86,7 +86,11 @@
   import Toast from 'wepy-com-toast'
   import testMixin from '../mixins/test'
 
-  console.log('moduleA ignored: ', moduleA) // => moduleA ignored: {}
+  var moment = require('moment');
+
+  console.log('moduleA ignored111: ', moduleA) // => moduleA ignored: {}
+
+  console.log(moment("1995-12-25"));
 
   export default class Index extends wepy.page {
     config = {
