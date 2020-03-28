@@ -75,14 +75,6 @@
 - 059-微信小程序运行环境与平台差异
 - 060-课程大总结与所有课程资料分享
 
-## 课程更新说明
-
-[优酷播单地址](https://list.youku.com/albumlist/show/id_29397686)
-
-[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
-
-社区视频更新合集贴：[https://devopen.club/](https://devopen.club/)
-
 ## 版权声明
 
 此视频为 DevOpenClub 出品的免费视频教程，欢迎大家踊跃留言给讲师需要讲解哪方面的课程，这样课程也更加干货多多，随时更新。
