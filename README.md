@@ -4,11 +4,19 @@
 
 视频版权为 [DevOpenClub](https://devopen.club/) 所有。
 
-## 🎉 新系列视频课程 《20 节实战微信天气预报小程序实战开发》
+## 🎉 🌵 微信小程序布局精解实战系列视频课程
+
+此系列课程专注于讲解微信小程序开发过程中的各类布局场景，通过每一个章节独立的代码实例进行实战讲解。
+以微信小程序开发常见布局实例为主题，通过代码实战形式讲解最常用的页面布局实现逻辑，以此掌握 CSS3 常用属性、Flex 布局以及响应式原理与相关属性。
+
+[https://devopen.club/course/miniprogramlayout](https://devopen.club/course/miniprogramlayout)
+
+
+## 🎉 新实战系列视频课程 《20 节实战微信天气预报小程序实战开发》
 
 此教程属于开发实战系列视频教程，基于之前发布的 「60 集微信小程序开发视频教程」，更新的第二阶段视频课程。
 此系列课程将直接进入实战开发部分，包含项目初始化、页面 UI 开发、请求天气预报接口、数据处理与绑定、细节优化、审核上架等等微信小程序实战开发的流程。
-你只需要按照课程的流程来，就可以开发出一模一样的微信小程序，同时免费提供源码、天气预报数据接口、课程笔记等资源。
+您只需要按照课程的流程来，就可以开发出一模一样的微信小程序，同时免费提供源码、天气预报数据接口、课程笔记等资源。
 
 [https://devopen.club/course/wxminiappweather](https://devopen.club/course/wxminiappweather)
 
@@ -93,4 +101,4 @@ DevOpen.Club Pro 高质量软件开发分享讨论群，汇聚了 1000+ 各行�
 
 任何技术都不是限制，我们最终目的是将技术转化成收入，实现财务自由。
 
-![video_masker.png](https://image.devopen.club/zsxq_202003021120.jpg)
+![video_masker.png](https://image.wxopen.club/zsxq_20200618_github.JPG)
