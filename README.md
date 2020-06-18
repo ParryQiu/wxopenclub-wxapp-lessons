@@ -101,4 +101,4 @@ DevOpen.Club Pro 高质量软件开发分享讨论群，汇聚了 1000+ 各行�
 
 任何技术都不是限制，我们最终目的是将技术转化成收入，实现财务自由。
 
-![video_masker.png](https://image.wxopen.club/zsxq_20200618_github.JPG)
+<img src="https://image.wxopen.club/zsxq_20200618_github.JPG" height="180px" />
