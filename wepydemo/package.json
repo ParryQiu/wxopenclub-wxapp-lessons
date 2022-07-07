@@ -17,7 +17,7 @@
   "author": "ParryQiu <qiupengyuan@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "wepy": "^1.6.0",
     "wepy-async-function": "^1.4.4",
     "wepy-com-toast": "^1.0.2"
